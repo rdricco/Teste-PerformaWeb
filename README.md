@@ -44,7 +44,7 @@
 
 * O teste consiste em criar o layout especificado e montar um menu com as informações consumidas via uma API interna com autenticação.
 * Com o retorno da API, criar um menu com os estados.
-* Quando clicar na opção de estado dn menu, preencher as opções subsequentes com as cidades e a imagem do respectivo estado restornados pela API.
+* Quando clicar na opção de Estado do menu, preencher as opções de Cidades e imagem do respectivo estado restornado pela API.
 * Todo conteúdo relacionado ao menu deverá ser carregado através da API.
 * O layout deverá ser responsivo.
 
