@@ -72,7 +72,7 @@
 Protótipo do página:  [Teste de Layout](https://www.figma.com/file/BOZqx8uK9NQ9IxbhVhyung96/Profit-e---Teste-de-Layout?node-id=0%3A1)
 
 
-Link da API: http://api.performaweb.com.br/teste/
+Link da API: https://www.api.performaweb.com.br/teste/
 
 Para autenticação na API você deverá enviar um post com os respectivos key e value:
 
